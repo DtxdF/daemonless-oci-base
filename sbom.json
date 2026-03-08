@@ -1,12 +1,12 @@
 {
   "image": "base",
-  "generated": "2026-02-27T09:31:55Z",
+  "generated": "2026-03-08T00:21:58Z",
   "tags": {
     "15-latest": {
       "arch": "amd64",
       "app_version": "15.0",
       "source": "upstream",
-      "generated": "2026-02-27T09:30:22Z",
+      "generated": "2026-03-08T00:21:00Z",
       "packages": {
         "freebsd": [
           {
@@ -139,7 +139,7 @@
           },
           {
             "name": "pkg",
-            "version": "2.5.1"
+            "version": "2.6.2"
           },
           {
             "name": "s6",
@@ -180,7 +180,7 @@
       "arch": "amd64",
       "app_version": "15.0",
       "source": "upstream",
-      "generated": "2026-02-27T09:31:43Z",
+      "generated": "2026-03-08T00:21:46Z",
       "packages": {
         "freebsd": [
           {
